@@ -1,0 +1,787 @@
+{
+  "BasicInformation": {
+    "Content": "装配工艺",
+    "SecretLevel": "公开",
+    "DutiesName": "mingcheng",
+    "ProjectName": "电脑网卡拆卸",
+    "ModelNumber": "32198416",
+    "FileNumber": "wenjianbianhao136549",
+    "DrawNumber": "498471315",
+    "ProFile": "这听起来像是一部科幻电影的情节：人类正在破坏地球，在其地壳上挖出巨大的伤痕，并在开采和提炼技术进步所必需的关键元素时污染了空气和地面。现在科学家们在检查一块外星陨石时发现了一种独特的金属，它可以避免所有的挖掘和污染。最重要的是，这种金属可以在实验室里用基本材料进行复制。\n\n两个科学家团队--一个在波士顿的东北大学，另一个在英国的剑桥大学--最近宣布，他们成功地在实验室中制造了一种地球上不自然存在的材料。它--直到现在--只在陨石中被发现。\n\n东北大学团队的教授之一劳拉-亨德森-刘易斯告诉我们，在陨石中发现的材料是两种基本金属镍和铁的组合，它们在流星体和小行星在太空中翻滚时被冷却了数百万年。这一过程创造了一种独特的化合物，具有一系列特殊的特性，使其成为高端永久磁铁的理想选择，而这些磁铁是一系列先进机器的重要组成部分，从电动汽车到航天飞机涡轮机。\n\n这种化合物被称为tetrataenite，而且科学家们已经找到了在实验室中制造它的方法。如果合成的四氧化二氮在工业应用中发挥作用，它可以使绿色能源技术的成本大大降低。它还可能搅乱目前由一国主导的稀土市场，并在工业平衡中产生地震式的转变。",
+    "ProcessStrategy": "磁铁是任何依靠电力运行的机械的一个重要组成部分：它们是将电力转化为机械行动的管道。大多数磁铁，例如你办公室墙上的电池供电时钟中的磁铁，是相当便宜和容易生产的。另一方面，用于先进机械的永久磁铁必须能够长期抵御巨大的压力和温度。而为了获得这些特性，它们需要一种特殊的成分：稀土。\n\n稀土并不那么罕见。它们是在世界各地都可以找到的元素。困难的部分是提取它们。首先，你必须把它们从地下挖出来。这已经很困难了。然后你必须把它们分离出来：它们通常与其他元素或材料结合在一起。将这些化合物分解，并提炼出原始元素，是一项昂贵而环境代价沉重的工作。\n\n改变游戏规则\n\n什么合成四氧化二氮的发现如此令人兴奋？这种化合物非常坚硬，制造商可以用它来制造永久磁铁，除了最苛刻的机器之外。如果这种情况发生，美国可以自己填补磁铁市场的一个巨大部分，并减少对某些稀土的需求。在这些关键材料方面，美国将不再受制于竞争对手，也不再依赖他们提供生产重要技术所需的某些部件。"
+  },
+  "PartsTree": [
+    {
+      "ID": "PP-AIWAYS-1-11-2022-15-30-3-20-144",
+      "CompoundPart": "主机",
+      "PartName": "zhuji",
+      "PartFigureNumber": "419849849",
+      "PartUnit": "L",
+      "PartMaterial": "阿斯顿发生",
+      "PartIfInMaterialList": "是",
+      "PartNote": "反反复复烦烦烦",
+      "ChildrenNode": [
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-10-20-263",
+          "PartPrototype(i)": "bodycover*",
+          "PartName": "机箱外壳",
+          "PartFigureNumber": "21951",
+          "PartUnit": "m",
+          "PartMaterial": "金属",
+          "PartIfInMaterialList": "是",
+          "PartNote": "威风威风"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-10-20-266",
+          "PartPrototype(i)": "front_new*",
+          "PartName": "front",
+          "PartFigureNumber": "49445810",
+          "PartUnit": "kg",
+          "PartMaterial": "2到啊打法22",
+          "PartIfInMaterialList": "是",
+          "PartNote": "啊打发发达"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-10-20-269",
+          "PartPrototype(i)": "memory_pcb*",
+          "PartName": "内存条0002316",
+          "PartFigureNumber": "啊打发",
+          "PartUnit": "mm",
+          "PartMaterial": "32234",
+          "PartIfInMaterialList": "是",
+          "PartNote": "511587/3如2发生的"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-10-20-272",
+          "PartPrototype(i)": "memory_pcb_0001*",
+          "PartName": "啊手动阀打发",
+          "PartFigureNumber": "322+62303",
+          "PartUnit": "ml",
+          "PartMaterial": "阿迪斯发发",
+          "PartIfInMaterialList": "是",
+          "PartNote": "ads"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-10-20-275",
+          "PartPrototype(i)": "memory_pcb_0002*",
+          "PartName": "阿斯顿法国红酒看来",
+          "PartFigureNumber": "5454161",
+          "PartUnit": "mm",
+          "PartMaterial": "161616请问",
+          "PartIfInMaterialList": "是",
+          "PartNote": "热情无人区"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-10-20-278",
+          "PartPrototype(i)": "memory_pcb_0003*",
+          "PartName": "而我认为去",
+          "PartFigureNumber": "",
+          "PartUnit": "mm",
+          "PartMaterial": "请问人情味",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-10-20-281",
+          "PartPrototype(i)": "network_card_pcb*",
+          "PartName": "324414",
+          "PartFigureNumber": "而未确认犬瘟热",
+          "PartUnit": "m",
+          "PartMaterial": "12323",
+          "PartIfInMaterialList": "是",
+          "PartNote": "764746基金会"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-10-20-284",
+          "PartPrototype(i)": "pcframe*",
+          "PartName": "12313宣传部",
+          "PartFigureNumber": "adfzxcz3131656",
+          "PartUnit": "g",
+          "PartMaterial": "544798————+",
+          "PartIfInMaterialList": "是",
+          "PartNote": "2615611打算发发"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-10-20-287",
+          "PartPrototype(i)": "ports_pcb*",
+          "PartName": "人情味认为去",
+          "PartFigureNumber": "操作v在",
+          "PartUnit": "m",
+          "PartMaterial": "为其日期",
+          "PartIfInMaterialList": "是",
+          "PartNote": "023198+++"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-10-20-290",
+          "PartPrototype(i)": "screw*",
+          "PartName": "",
+          "PartFigureNumber": "",
+          "PartUnit": "",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-22-20-293",
+          "PartPrototype(i)": "screw*",
+          "PartName": "恶委屈人情味",
+          "PartFigureNumber": "",
+          "PartUnit": "",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-25-20-296",
+          "PartPrototype(i)": "screw*",
+          "PartName": "",
+          "PartFigureNumber": "打发十分123458OK i节目",
+          "PartUnit": "",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-26-20-299",
+          "PartPrototype(i)": "screw*",
+          "PartName": "",
+          "PartFigureNumber": "",
+          "PartUnit": "",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-28-20-302",
+          "PartPrototype(i)": "screw*",
+          "PartName": "",
+          "PartFigureNumber": "",
+          "PartUnit": "L",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-29-20-305",
+          "PartPrototype(i)": "screw*",
+          "PartName": "",
+          "PartFigureNumber": "",
+          "PartUnit": "m",
+          "PartMaterial": "啊手动阀",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-30-20-308",
+          "PartPrototype(i)": "screw*",
+          "PartName": "",
+          "PartFigureNumber": "",
+          "PartUnit": "",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "否",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-33-32-20-311",
+          "PartPrototype(i)": "screw*",
+          "PartName": "",
+          "PartFigureNumber": "3414123123",
+          "PartUnit": "",
+          "PartMaterial": "犬瘟热犬瘟热",
+          "PartIfInMaterialList": "否",
+          "PartNote": "进皇宫门口"
+        }
+      ]
+    },
+    {
+      "ID": "PP-AIWAYS-1-11-2022-15-30-3-20-140",
+      "CompoundPart": "鼠标",
+      "PartName": "shubiao",
+      "PartFigureNumber": "165654984//",
+      "PartUnit": "g",
+      "PartMaterial": "16非1公元31放",
+      "PartIfInMaterialList": "否",
+      "PartNote": "321阿斯顿法6954呵",
+      "ChildrenNode": [
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-31-8-20-149",
+          "PartPrototype(i)": "mouse_ball*",
+          "PartName": "啊手动阀",
+          "PartFigureNumber": "06211491",
+          "PartUnit": "g",
+          "PartMaterial": "安德夫02啊3",
+          "PartIfInMaterialList": "是",
+          "PartNote": "+6饿55若前人"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-31-8-20-152",
+          "PartPrototype(i)": "mouse_base*",
+          "PartName": "〇点想2",
+          "PartFigureNumber": "啊564饭店锕4",
+          "PartUnit": "",
+          "PartMaterial": "阿瑟东1发",
+          "PartIfInMaterialList": "是",
+          "PartNote": "日日61"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-31-8-20-155",
+          "PartPrototype(i)": "mouse_block*",
+          "PartName": "02vc32xb",
+          "PartFigureNumber": "653日9814∠1",
+          "PartUnit": "mm",
+          "PartMaterial": "asd0f",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-31-8-20-158",
+          "PartPrototype(i)": "mouse_board*",
+          "PartName": "121234几号放假",
+          "PartFigureNumber": "答复1",
+          "PartUnit": "m",
+          "PartMaterial": "0321",
+          "PartIfInMaterialList": "是",
+          "PartNote": "564694130怒骂就郁闷"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-31-8-20-161",
+          "PartPrototype(i)": "mouse_cap*",
+          "PartName": "",
+          "PartFigureNumber": "",
+          "PartUnit": "",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-31-8-20-164",
+          "PartPrototype(i)": "mouse_cover*",
+          "PartName": "阿三的阀65",
+          "PartFigureNumber": "-/-*5468*",
+          "PartUnit": "kg",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-31-8-20-167",
+          "PartPrototype(i)": "wheel_x_sm*",
+          "PartName": "asdfa",
+          "PartFigureNumber": "",
+          "PartUnit": "",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "否23",
+          "PartNote": "48941"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-31-8-20-170",
+          "PartPrototype(i)": "wheel_y_sm*",
+          "PartName": "0不贰0下",
+          "PartFigureNumber": "10000",
+          "PartUnit": "",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "是0615654",
+          "PartNote": ""
+        }
+      ]
+    },
+    {
+      "ID": "PP-AIWAYS-1-11-2022-15-30-3-20-142",
+      "CompoundPart": "显示器",
+      "PartName": ".+-841519*",
+      "PartFigureNumber": "032165651",
+      "PartUnit": "mm",
+      "PartMaterial": "03203",
+      "PartIfInMaterialList": "啊打开附件",
+      "PartNote": "2146510大沙发",
+      "ChildrenNode": [
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-30-40-20-146",
+          "PartPrototype(i)": "ecran_14*",
+          "PartName": "",
+          "PartFigureNumber": "",
+          "PartUnit": "",
+          "PartMaterial": "",
+          "PartIfInMaterialList": "是",
+          "PartNote": ""
+        }
+      ]
+    }
+  ],
+  "ResourcesTree": [
+    {
+      "ID": "PP-AIWAYS-1-11-2022-15-25-35-20-134",
+      "Equipment": "装配工位",
+      "EquipmentName": "",
+      "EquipmentUnit": "",
+      "EquipmentQuantity": "",
+      "EquipmentNote": "",
+      "ChildrenNode": [
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-55-20-20-365",
+          "Tool": "p15005",
+          "ToolName": "电动螺丝刀",
+          "ToolUnit": "1654984798",
+          "ToolQuantity": "1235",
+          "ToolNote": "44i莉莉经济"
+        },
+        {
+          "ID": "PP-AIWAYS-1-11-2022-15-55-22-20-368",
+          "Material": "workbench3",
+          "MaterialName": "啊打发打发",
+          "MaterialUnit": "mm",
+          "MaterialQuantity": "",
+          "MaterialNote": "用5肌肤光滑美女"
+        },
+        {
+          "ID": "PP-PPDB-20-12-2022-21-24-26-20-919",
+          "Equipment": "CompoundResource1",
+          "EquipmentName": "公共那个",
+          "EquipmentUnit": "波兰空军和v看",
+          "EquipmentQuantity": "1549516",
+          "EquipmentNote": "县城北部",
+          "ChildrenNode": [
+            {
+              "ID": "PP-PPDB-20-12-2022-21-24-26-20-921",
+              "Gauges": "p15005",
+              "GaugesName": "放大发",
+              "GaugesUnit": "打饭打水",
+              "GaugesQuantity": "122",
+              "GaugesNote": "去微软"
+            },
+            {
+              "ID": "PP-PPDB-20-12-2022-21-24-26-20-924",
+              "Tool": "p15005",
+              "ToolName": "4143",
+              "ToolUnit": "21414",
+              "ToolQuantity": "额外热切二",
+              "ToolNote": "啊啊啊啊"
+            },
+            {
+              "ID": "PP-PPDB-20-12-2022-21-24-26-20-927",
+              "Tool": "workbench3",
+              "ToolName": "如24",
+              "ToolUnit": "热情热情",
+              "ToolQuantity": "高峰时段",
+              "ToolNote": "那么酷"
+            }
+          ]
+        },
+        {
+          "ID": "PP-PPDB-20-12-2022-21-24-30-20-930",
+          "Equipment": "CompoundResource2",
+          "EquipmentName": "",
+          "EquipmentUnit": "",
+          "EquipmentQuantity": "",
+          "EquipmentNote": "",
+          "ChildrenNode": [
+            {
+              "ID": "PP-PPDB-20-12-2022-21-24-30-20-932",
+              "Others": "workbench3",
+              "OthersName": "我和特人",
+              "OthersUnit": "儿童活动的",
+              "OthersQuantity": "542有",
+              "OthersNote": "为啥发表"
+            },
+            {
+              "ID": "PP-PPDB-20-12-2022-21-24-30-20-935",
+              "Equipment": "workbench3",
+              "EquipmentName": "",
+              "EquipmentUnit": "",
+              "EquipmentQuantity": "",
+              "EquipmentNote": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "OperationTree": [
+    {
+      "CompoundOperationGroup": "拧下机箱螺丝",
+      "StartTime": "0.00",
+      "CompoundOperationGroupNumber": "等等",
+      "ProcessCharacteristic": "奥迪罚646",
+      "WorkTimeQuotaOrHumanNumber": "2+64984为",
+      "CompoundOperationGroupNote": "发达发达651",
+      "RelationViewer": {
+        "ProductsID": [
+          "PP-AIWAYS-1-11-2022-15-30-3-20-144",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-290",
+          "PP-AIWAYS-1-11-2022-15-33-22-20-293",
+          "PP-AIWAYS-1-11-2022-15-33-25-20-296",
+          "PP-AIWAYS-1-11-2022-15-33-26-20-299",
+          "PP-AIWAYS-1-11-2022-15-33-28-20-302",
+          "PP-AIWAYS-1-11-2022-15-33-29-20-305",
+          "PP-AIWAYS-1-11-2022-15-33-30-20-308"
+        ],
+        "ResourcesID": [
+          "PP-AIWAYS-1-11-2022-15-55-20-20-365"
+        ]
+      },
+      "CompoundOperation": [
+        {
+          "CompoundOperationGroup": "旋转机箱180",
+          "StartTime": "0.00",
+          "CompoundOperationNumber": "adsfadf1234",
+          "IndustrialAssembly": "-=-=（）打发的",
+          "PresentProcessStrategy": "还有空间呕吐",
+          "TechnologistStrategy": "44651违规",
+          "TechnologistMeasurement": "65身份公司跟2",
+          "InspectorStrategy": "舒服的5过65",
+          "InspectorMeasurement": "65方式的高54是",
+          "OperatorStrategy": "8会牛肉4",
+          "OperatorMeasurement": "√会45的规范化",
+          "RelationViewer": {
+            "ProductsID": [
+              "PP-AIWAYS-1-11-2022-15-30-3-20-144"
+            ],
+            "ResourcesID": []
+          },
+          "Operation": [
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-30-3-20-144"
+              ],
+              "ResourcesID": []
+            }
+          ]
+        },
+        {
+          "CompoundOperationGroup": "拧松螺丝*7",
+          "StartTime": "3.00",
+          "CompoundOperationNumber": "21651俄国",
+          "IndustrialAssembly": "史蒂夫该是",
+          "PresentProcessStrategy": "发射的5会654",
+          "TechnologistStrategy": "65集团提交",
+          "TechnologistMeasurement": "行家4任5会",
+          "InspectorStrategy": "图6也呃5",
+          "InspectorMeasurement": "图4与图恶意",
+          "OperatorStrategy": "54慢慢8太有",
+          "OperatorMeasurement": "一句丫头4",
+          "RelationViewer": {
+            "ProductsID": [],
+            "ResourcesID": []
+          },
+          "Operation": [
+            {
+              "ProductsID": [],
+              "ResourcesID": [
+                "PP-AIWAYS-1-11-2022-15-55-20-20-365"
+              ]
+            }
+          ]
+        },
+        {
+          "CompoundOperationGroup": "取下螺丝*7",
+          "StartTime": "8.00",
+          "CompoundOperationNumber": "认为请1人气额人",
+          "IndustrialAssembly": "43天然3它5032",
+          "PresentProcessStrategy": "阿瑟东发福 ",
+          "TechnologistStrategy": "阿迪斯发发1",
+          "TechnologistMeasurement": "123312565u将于同年回国",
+          "InspectorStrategy": "恶法",
+          "InspectorMeasurement": "",
+          "OperatorStrategy": "啊打发更好人",
+          "OperatorMeasurement": "",
+          "RelationViewer": {
+            "ProductsID": [],
+            "ResourcesID": []
+          },
+          "Operation": [
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-10-20-290"
+              ],
+              "ResourcesID": []
+            },
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-22-20-293"
+              ],
+              "ResourcesID": []
+            },
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-25-20-296"
+              ],
+              "ResourcesID": []
+            },
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-26-20-299"
+              ],
+              "ResourcesID": []
+            },
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-28-20-302"
+              ],
+              "ResourcesID": []
+            },
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-29-20-305"
+              ],
+              "ResourcesID": []
+            },
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-30-20-308"
+              ],
+              "ResourcesID": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CompoundOperationGroup": "取下机箱外壳",
+      "StartTime": "13.00",
+      "CompoundOperationGroupNumber": "",
+      "ProcessCharacteristic": "211安定5发6",
+      "WorkTimeQuotaOrHumanNumber": "阿德2发啊",
+      "CompoundOperationGroupNote": "哒1师傅傅64安抚",
+      "RelationViewer": {
+        "ProductsID": [
+          "PP-AIWAYS-1-11-2022-15-30-3-20-144",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-263",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-284",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-290",
+          "PP-AIWAYS-1-11-2022-15-33-22-20-293",
+          "PP-AIWAYS-1-11-2022-15-33-25-20-296",
+          "PP-AIWAYS-1-11-2022-15-33-26-20-299",
+          "PP-AIWAYS-1-11-2022-15-33-28-20-302",
+          "PP-AIWAYS-1-11-2022-15-33-29-20-305",
+          "PP-AIWAYS-1-11-2022-15-33-30-20-308"
+        ],
+        "ResourcesID": []
+      },
+      "CompoundOperation": [
+        {
+          "CompoundOperationGroup": "取下外壳",
+          "StartTime": "0.00",
+          "CompoundOperationNumber": "额我确认去",
+          "IndustrialAssembly": "发生的故事的v吧",
+          "PresentProcessStrategy": "",
+          "TechnologistStrategy": "阿斯顿发顺丰",
+          "TechnologistMeasurement": "",
+          "InspectorStrategy": "fb阿斯顿发顺丰",
+          "InspectorMeasurement": "",
+          "OperatorStrategy": "u有空记得发货",
+          "OperatorMeasurement": "",
+          "RelationViewer": {
+            "ProductsID": [],
+            "ResourcesID": []
+          },
+          "Operation": [
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-10-20-263"
+              ],
+              "ResourcesID": []
+            }
+          ]
+        },
+        {
+          "CompoundOperationGroup": "旋转机箱90",
+          "StartTime": "5.00",
+          "CompoundOperationNumber": "从v作者",
+          "IndustrialAssembly": "",
+          "PresentProcessStrategy": "zcv支持v消费券二",
+          "TechnologistStrategy": "",
+          "TechnologistMeasurement": "轻而发生的v从",
+          "InspectorStrategy": "",
+          "InspectorMeasurement": "",
+          "OperatorStrategy": "",
+          "OperatorMeasurement": "",
+          "RelationViewer": {
+            "ProductsID": [],
+            "ResourcesID": []
+          },
+          "Operation": [
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-10-20-284"
+              ],
+              "ResourcesID": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CompoundOperationGroup": "拧下网卡螺丝",
+      "StartTime": "21.00",
+      "CompoundOperationGroupNumber": "会与很认同或 ",
+      "ProcessCharacteristic": "16514654 烤鱼烤鱼",
+      "WorkTimeQuotaOrHumanNumber": "",
+      "CompoundOperationGroupNote": "654442温热",
+      "RelationViewer": {
+        "ProductsID": [
+          "PP-AIWAYS-1-11-2022-15-30-3-20-144",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-263",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-284",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-290",
+          "PP-AIWAYS-1-11-2022-15-33-22-20-293",
+          "PP-AIWAYS-1-11-2022-15-33-25-20-296",
+          "PP-AIWAYS-1-11-2022-15-33-26-20-299",
+          "PP-AIWAYS-1-11-2022-15-33-28-20-302",
+          "PP-AIWAYS-1-11-2022-15-33-29-20-305",
+          "PP-AIWAYS-1-11-2022-15-33-30-20-308",
+          "PP-AIWAYS-1-11-2022-15-33-32-20-311"
+        ],
+        "ResourcesID": []
+      },
+      "CompoundOperation": [
+        {
+          "CompoundOperationGroup": "拧松螺丝*1",
+          "StartTime": "0.00",
+          "CompoundOperationNumber": "按时打发蛋白v",
+          "IndustrialAssembly": "啊多发点",
+          "PresentProcessStrategy": "表现出v本人",
+          "TechnologistStrategy": "微软人格改变",
+          "TechnologistMeasurement": "人非人",
+          "InspectorStrategy": "21",
+          "InspectorMeasurement": "4324他如果",
+          "OperatorStrategy": "如果退货的",
+          "OperatorMeasurement": "7用日月同辉",
+          "RelationViewer": {
+            "ProductsID": [],
+            "ResourcesID": []
+          },
+          "Operation": [
+            {
+              "ProductsID": [],
+              "ResourcesID": [
+                "PP-AIWAYS-1-11-2022-15-55-20-20-365"
+              ]
+            }
+          ]
+        },
+        {
+          "CompoundOperationGroup": "取下螺丝*1",
+          "StartTime": "3.00",
+          "CompoundOperationNumber": "非必须从",
+          "IndustrialAssembly": "阿三的阀",
+          "PresentProcessStrategy": "2法大师傅",
+          "TechnologistStrategy": "现场v白色的",
+          "TechnologistMeasurement": "×?DD3μv",
+          "InspectorStrategy": "",
+          "InspectorMeasurement": "",
+          "OperatorStrategy": "",
+          "OperatorMeasurement": "",
+          "RelationViewer": {
+            "ProductsID": [],
+            "ResourcesID": []
+          },
+          "Operation": [
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-32-20-311"
+              ],
+              "ResourcesID": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CompoundOperationGroup": "取出电脑网卡",
+      "StartTime": "26.00",
+      "CompoundOperationGroupNumber": "啊手动阀示范点",
+      "ProcessCharacteristic": "1233",
+      "WorkTimeQuotaOrHumanNumber": "",
+      "CompoundOperationGroupNote": "",
+      "RelationViewer": {
+        "ProductsID": [
+          "PP-AIWAYS-1-11-2022-15-30-3-20-144",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-263",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-281",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-284",
+          "PP-AIWAYS-1-11-2022-15-33-10-20-290",
+          "PP-AIWAYS-1-11-2022-15-33-22-20-293",
+          "PP-AIWAYS-1-11-2022-15-33-25-20-296",
+          "PP-AIWAYS-1-11-2022-15-33-26-20-299",
+          "PP-AIWAYS-1-11-2022-15-33-28-20-302",
+          "PP-AIWAYS-1-11-2022-15-33-29-20-305",
+          "PP-AIWAYS-1-11-2022-15-33-30-20-308",
+          "PP-AIWAYS-1-11-2022-15-33-32-20-311"
+        ],
+        "ResourcesID": []
+      },
+      "CompoundOperation": [
+        {
+          "CompoundOperationGroup": "取出网卡",
+          "StartTime": "0.00",
+          "CompoundOperationNumber": "456546以后就",
+          "IndustrialAssembly": "",
+          "PresentProcessStrategy": "弄好给你",
+          "TechnologistStrategy": "",
+          "TechnologistMeasurement": "顺丰大概",
+          "InspectorStrategy": "",
+          "InspectorMeasurement": "就好好规划士大夫165498-*-*/-+",
+          "OperatorStrategy": "",
+          "OperatorMeasurement": "",
+          "RelationViewer": {
+            "ProductsID": [],
+            "ResourcesID": []
+          },
+          "Operation": [
+            {
+              "ProductsID": [
+                "PP-AIWAYS-1-11-2022-15-33-10-20-281"
+              ],
+              "ResourcesID": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ViewPointEventList": [
+    {
+      "camera_x": "95.2164543650793",
+      "camera_y": "-216.565910119048",
+      "camera_z": "195.382532936508",
+      "NumberOfSteps": "32",
+      "ViewPointTime": "8.00"
+    },
+    {
+      "camera_x": "-3.91654365079365",
+      "camera_y": "-307.533406349206",
+      "camera_z": "-3.81409166666667",
+      "NumberOfSteps": "55",
+      "ViewPointTime": "3.00"
+    },
+    {
+      "camera_x": "342.49914265873",
+      "camera_y": "-342.499094246032",
+      "camera_z": "351.913016071429",
+      "NumberOfSteps": "1",
+      "ViewPointTime": "0.00"
+    },
+    {
+      "camera_x": "72.2520253968254",
+      "camera_y": "-72.2520130952381",
+      "camera_z": "74.2378962301588",
+      "NumberOfSteps": "12",
+      "ViewPointTime": "21.00"
+    }
+  ],
+  "EmphasizeEventList": [
+    {
+      "Transparency": "80%",
+      "EmphasizeTime": "8.00",
+      "ObjectsToEmphasize": [
+        "PP-AIWAYS-1-11-2022-15-33-10-20-290",
+        "PP-AIWAYS-1-11-2022-15-33-22-20-293",
+        "PP-AIWAYS-1-11-2022-15-33-25-20-296",
+        "PP-AIWAYS-1-11-2022-15-33-26-20-299",
+        "PP-AIWAYS-1-11-2022-15-33-28-20-302",
+        "PP-AIWAYS-1-11-2022-15-33-29-20-305",
+        "PP-AIWAYS-1-11-2022-15-33-30-20-308"
+      ]
+    }
+  ]
+}
